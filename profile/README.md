@@ -1,3 +1,3 @@
 ## KickTheProject
 
-Simple, Fast, Transparent crowdfunding platform
+Simple, Transparent crowdfunding platform
